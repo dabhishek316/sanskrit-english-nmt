@@ -1,0 +1,9 @@
+{
+  "params": 8602624,
+  "inference_time_s": 19.84,
+  "bleu_dev": 0.1131,
+  "bleu_test": 0.1109,
+  "bertscore_f1_dev": 0.34481409192085266,
+  "bertscore_f1_test": 0.34642744064331055,
+  "beam_size": 4
+}
