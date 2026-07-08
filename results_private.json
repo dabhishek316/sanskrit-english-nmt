@@ -1,0 +1,6 @@
+{
+  "bleu": 0.1081,
+  "bertscore_f1": 0.3363,
+  "inference_time_s": 4.95,
+  "params": 8602624
+}
